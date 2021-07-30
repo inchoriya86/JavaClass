@@ -8,7 +8,7 @@ import java.sql.Statement;
 public class CRUDTest {
 	// CRUD
 	// CREATE(생성)
-	// READ(검색, 조회)
+	// READ(검색, 조회)dd
 	// UPDATE(수정)
 	// DELETE(삭제)
 	
